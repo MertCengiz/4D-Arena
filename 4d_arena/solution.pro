@@ -1,7 +1,3 @@
-% mert cengiz
-% 2020400216
-% compiling: yes
-% complete : yes
 
 % Begin distance
 
