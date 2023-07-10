@@ -1,4 +1,3 @@
-
 % Begin distance
 
 distance(Agent, TargetAgent, Distance):- Distance is abs(Agent.x - TargetAgent.x) + abs(Agent.y - TargetAgent.y). 
